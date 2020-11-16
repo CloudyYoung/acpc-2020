@@ -4,7 +4,7 @@ One of Atrebla’s favourite pastimes is collecting stickers from all the confer
 
 Atrebla has laid out all of his stickers, decided where he would like to place them and in what order they should be placed. Before he starts sticking, he would like to make one final check to make sure he will be satisfied with the final result.
 
-The surface of his laptop lid can be represented by a grid with H rows and L columns. Each character in the grid is either a ’_’, or a lowercase letter denoting a sticker. The first sticker is denoted with ’a’s, the second with ’b’s, and so on. When placed, a sticker will cover up everything beneath it. Any parts of a sticker that hangs off the laptop will be cut off.
+The surface of his laptop lid can be represented by a grid with <img src="https://render.githubusercontent.com/render/math?math=H"> rows and <img src="https://render.githubusercontent.com/render/math?math=L"> columns. Each character in the grid is either a ’_’, or a lowercase letter denoting a sticker. The first sticker is denoted with ’a’s, the second with ’b’s, and so on. When placed, a sticker will cover up everything beneath it. Any parts of a sticker that hangs off the laptop will be cut off.
 
 Can you write a program to give a preview of what Atrebla’s laptop will look like after placing all of his stickers?
 
@@ -12,4 +12,4 @@ Can you write a program to give a preview of what Atrebla’s laptop will look l
 
 The first line contains three space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<L,H≤50">, the length and height of the laptop lid, and <img src="https://render.githubusercontent.com/render/math?math=0≤K≤26"> the number of stickers to be placed.
 
-Each of the following K lines contains four space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<l≤L">, the length of the sticker, <img src="https://render.githubusercontent.com/render/math?math=0<h≤H">, the height of the sticker, and <img src="https://render.githubusercontent.com/render/math?math=0≤a<L"> and <img src="https://render.githubusercontent.com/render/math?math=0≤b<H"> denoting the column and row of the top left corner of the sticker respectively.
+Each of the following <img src="https://render.githubusercontent.com/render/math?math=K"> lines contains four space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<l≤L">, the length of the sticker, <img src="https://render.githubusercontent.com/render/math?math=0<h≤H">, the height of the sticker, and <img src="https://render.githubusercontent.com/render/math?math=0≤a<L"> and <img src="https://render.githubusercontent.com/render/math?math=0≤b<H"> denoting the column and row of the top left corner of the sticker respectively.
