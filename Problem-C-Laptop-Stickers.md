@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Problem C: Laptop Stickers
 
 One of Atrebla’s favourite pastimes is collecting stickers from all the conferences he attends. Due to a series of unfortunate events, all of the usual ones have been cancelled, so this year he has finally decided to start putting them onto his laptop.
@@ -12,6 +10,6 @@ Can you write a program to give a preview of what Atrebla’s laptop will look l
 
 ## Inputs
 
-The first line contains three space separated integers $0<L,H≤50$, the length and height of the laptop lid, and $0≤K≤26$ the number of stickers to be placed.
+The first line contains three space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<L,H≤50">, the length and height of the laptop lid, and <img src="https://render.githubusercontent.com/render/math?math=0≤K≤26"> the number of stickers to be placed.
 
-Each of the following K lines contains four space separated integers $0<l≤L$, the length of the sticker, $0<h≤H$, the height of the sticker, and $0≤a<L$ and $0≤b<H$ denoting the column and row of the top left corner of the sticker respectively.
+Each of the following K lines contains four space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<l≤L">, the length of the sticker, <img src="https://render.githubusercontent.com/render/math?math=0<h≤H">, the height of the sticker, and <img src="https://render.githubusercontent.com/render/math?math=0≤a<L"> and <img src="https://render.githubusercontent.com/render/math?math=0≤b<H"> denoting the column and row of the top left corner of the sticker respectively.
