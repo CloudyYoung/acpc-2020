@@ -21,8 +21,8 @@ Output the final state of the laptop lid after all the stickers have been placed
 <table>
 <thead>
   <tr>
-    <th>Sample Input 1</th>
-    <th>Sample Output 1</th>
+    <th>Sample Input</th>
+    <th>Sample Output</th>
   </tr>
 </thead>
 <tbody>
