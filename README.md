@@ -3,7 +3,7 @@
 
 Date: Nov 14, 2020  
 Division: Open Division  
-Rank: Bad X_X  
+Rank: 25😢
 
 Problem | Name | Solved
 --|--|--
