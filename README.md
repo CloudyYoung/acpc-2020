@@ -8,7 +8,7 @@ Solved: 4 (+2 than last year😯)
 
 Problem | Name | Solved
 --|--|--
-A|Best Investment|⚠
+A|[Best Investment](Problem-A/A.md)|⚠
 B|Hired Help|❌
 C|[Laptop Stickers](Problem-C/C.md)|✔
 D|Listen To Your Boss|⚠
