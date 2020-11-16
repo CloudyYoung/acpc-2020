@@ -1,9 +1,3 @@
-<style>
-table{
-    width: 100%;
-}
-</style>
-
 # Problem C: Laptop Stickers
 
 One of Atrebla’s favourite pastimes is collecting stickers from all the conferences he attends. Due to a series of unfortunate events, all of the usual ones have been cancelled, so this year he has finally decided to start putting them onto his laptop.
@@ -24,16 +18,16 @@ Each of the following <img src="https://render.githubusercontent.com/render/math
 
 Output the final state of the laptop lid after all the stickers have been placed.
 
-<table class="tg">
+<table style="width: 100%;">
 <thead>
   <tr>
-    <th class="tg-0pky">Sample Input 1</th>
-    <th class="tg-0pky">Sample Output 1</th>
+    <th>Sample Input 1</th>
+    <th>Sample Output 1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">
+    <td>
 <pre>
 6 3 3
 2 3 0 0
@@ -41,7 +35,7 @@ Output the final state of the laptop lid after all the stickers have been placed
 3 2 3 1
 </pre>
     </td>
-    <td class="tg-0pky">
+    <td>
 <pre>
 aa____
 aa_ccc
