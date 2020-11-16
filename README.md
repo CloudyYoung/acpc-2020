@@ -9,7 +9,7 @@ Problem | Name | Solved
 --|--|--
 A|Best Investment|⚠
 B|Hired Help|❌
-[C](Problem-C/C.md)|[Laptop Stickers](Problem-C/C.md)|✔
+C|[Laptop Stickers](Problem-C/C.md)|✔
 D|Listen To Your Boss|⚠
 E|Monochromatic Minesweeper|❌
 F|Password Rotation|❌
