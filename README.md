@@ -4,6 +4,7 @@
 Date: Nov 14, 2020  
 Division: Open Division  
 Rank: 25😢
+Solved: 4 (+2 than last year😯)
 
 Problem | Name | Solved
 --|--|--
