@@ -9,8 +9,8 @@ Note that in the first sample case, Geraldine’s best strategy is to deposit $1
 
 ## Input
 Input begins with a line consisting of the four space-separated integers <img src="https://render.githubusercontent.com/render/math?math=r">, <img src="https://render.githubusercontent.com/render/math?math=y">, <img src="https://render.githubusercontent.com/render/math?math=d">, and <img src="https://render.githubusercontent.com/render/math?math=w"> as described in the problem statement, satisfying that  
-<img src="https://render.githubusercontent.com/render/math?math=1≤r,y≤100">  
-<img src="https://render.githubusercontent.com/render/math?math=1≤d,w≤10^6">.
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=1≤r,y≤100"></div>  
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=1≤d,w≤10^6">.</div>
 
 ## Output
 Output the maximum net gain that Geraldine can earn with her account. Answers will be accepted up to a relative error of <img src="https://render.githubusercontent.com/render/math?math=10^{-6}"> or absolute error of <img src="https://render.githubusercontent.com/render/math?math=10^{-2}">, whichever is greater.
