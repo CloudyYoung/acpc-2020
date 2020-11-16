@@ -17,6 +17,6 @@ F|Password Rotation|❌
 G|Path Crossings|❌
 H|Straights|✔
 I|[Test Drive](Problem-I/I.md)|✔
-J|Warring Scoring|✔
+J|[Warring Scoring](Problem-J/J.md)|✔
 K|Wormhole Extreme!!!|❌
 L|Wrapping Trees|❌
