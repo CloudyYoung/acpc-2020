@@ -9,7 +9,7 @@ Solved: 4 (+2 than last year😯)
 Problem | Name | Solved
 --|--|--
 A|[Best Investment](Problem-A/A.md)|⚠
-B|Hired Help|❌
+B|[Hired Help](Problem-B/B.md)|❌
 C|[Laptop Stickers](Problem-C/C.md)|✔
 D|Listen To Your Boss|⚠
 E|Monochromatic Minesweeper|❌
