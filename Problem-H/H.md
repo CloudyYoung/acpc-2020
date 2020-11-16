@@ -6,7 +6,7 @@ For example, given eight cards with the numbers: `1 8 3 6 5 7 2 1`, the minimum 
 Can you find the minimum number of turns required for you to win?
 
 ## Input
-Input consists of two lines. The first contains the number of cards that you are given <img src="https://render.githubusercontent.com/render/math?math=N (1≤N≤10^4)">. The second line consists of  <img src="https://render.githubusercontent.com/render/math?math=N"> space separated integers each with a different value between <img src="https://render.githubusercontent.com/render/math?math=1"> and <img src="https://render.githubusercontent.com/render/math?math=10^4">.
+Input consists of two lines. The first contains the number of cards that you are given <img src="https://render.githubusercontent.com/render/math?math=N (1≤N≤10^4)">. The second line consists of <img src="https://render.githubusercontent.com/render/math?math=N"> space separated integers each with a different value between <img src="https://render.githubusercontent.com/render/math?math=1"> and <img src="https://render.githubusercontent.com/render/math?math=10^4">.
 
 ## Output
 Output the minimum number of turns to win.
