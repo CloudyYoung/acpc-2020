@@ -11,7 +11,7 @@ Problem | Name | Solved
 A|Best Investment|⚠
 B|Hired Help|❌
 C|[Laptop Stickers](Problem-C/C.md)|✔
-D|Listen To Your Boss|⚠
+D|[Listen To Your Boss](Problem-I/I.md)|⚠
 E|Monochromatic Minesweeper|❌
 F|Password Rotation|❌
 G|Path Crossings|❌
