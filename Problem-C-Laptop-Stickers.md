@@ -1,0 +1,17 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+# Problem C: Laptop Stickers
+
+One of Atrebla’s favourite pastimes is collecting stickers from all the conferences he attends. Due to a series of unfortunate events, all of the usual ones have been cancelled, so this year he has finally decided to start putting them onto his laptop.
+
+Atrebla has laid out all of his stickers, decided where he would like to place them and in what order they should be placed. Before he starts sticking, he would like to make one final check to make sure he will be satisfied with the final result.
+
+The surface of his laptop lid can be represented by a grid with H rows and L columns. Each character in the grid is either a ’_’, or a lowercase letter denoting a sticker. The first sticker is denoted with ’a’s, the second with ’b’s, and so on. When placed, a sticker will cover up everything beneath it. Any parts of a sticker that hangs off the laptop will be cut off.
+
+Can you write a program to give a preview of what Atrebla’s laptop will look like after placing all of his stickers?
+
+## Inputs
+
+The first line contains three space separated integers $0<L,H≤50$, the length and height of the laptop lid, and $0≤K≤26$ the number of stickers to be placed.
+
+Each of the following K lines contains four space separated integers $0<l≤L$, the length of the sticker, $0<h≤H$, the height of the sticker, and $0≤a<L$ and $0≤b<H$ denoting the column and row of the top left corner of the sticker respectively.
