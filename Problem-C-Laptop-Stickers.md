@@ -13,3 +13,35 @@ Can you write a program to give a preview of what Atrebla’s laptop will look l
 The first line contains three space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<L,H≤50">, the length and height of the laptop lid, and <img src="https://render.githubusercontent.com/render/math?math=0≤K≤26"> the number of stickers to be placed.
 
 Each of the following <img src="https://render.githubusercontent.com/render/math?math=K"> lines contains four space separated integers <img src="https://render.githubusercontent.com/render/math?math=0<l≤L">, the length of the sticker, <img src="https://render.githubusercontent.com/render/math?math=0<h≤H">, the height of the sticker, and <img src="https://render.githubusercontent.com/render/math?math=0≤a<L"> and <img src="https://render.githubusercontent.com/render/math?math=0≤b<H"> denoting the column and row of the top left corner of the sticker respectively.
+
+## Outputs
+
+Output the final state of the laptop lid after all the stickers have been placed.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Sample Input 1</th>
+    <th class="tg-0pky">Sample Output 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">
+<pre>
+6 3 3
+2 3 0 0
+2 1 2 2
+3 2 3 1
+</pre>
+    </td>
+    <td class="tg-0pky">
+<pre>
+aa____
+aa_ccc
+aabccc
+</pre>
+    </td>
+  </tr>
+</tbody>
+</table>
