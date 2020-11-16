@@ -1,3 +1,9 @@
+<style>
+table{
+    width: 100%;
+}
+</style>
+
 # Problem C: Laptop Stickers
 
 One of Atrebla’s favourite pastimes is collecting stickers from all the conferences he attends. Due to a series of unfortunate events, all of the usual ones have been cancelled, so this year he has finally decided to start putting them onto his laptop.
