@@ -18,7 +18,7 @@ Each of the following <img src="https://render.githubusercontent.com/render/math
 
 Output the final state of the laptop lid after all the stickers have been placed.
 
-<table style="width: 100%;">
+<table>
 <thead>
   <tr>
     <th>Sample Input 1</th>
