@@ -15,7 +15,7 @@ D|Listen To Your Boss|⚠
 E|Monochromatic Minesweeper|❌
 F|Password Rotation|❌
 G|Path Crossings|❌
-H|Straights|✔
+H|[Straights](Problem-H/H.md)|✔
 I|[Test Drive](Problem-I/I.md)|✔
 J|[Warring Scoring](Problem-J/J.md)|✔
 K|Wormhole Extreme!!!|❌
